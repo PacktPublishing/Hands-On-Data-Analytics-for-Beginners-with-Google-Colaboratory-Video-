@@ -5,7 +5,7 @@ Google Colaboratory is an online platform to perform data analysis. It enables y
 
 In this course, you will learn to solve problems and obtain key results with data. You will begin by building your own Jupyter notebook before you explore and learn the basics of Google Colaboratory. Then you will explore several file formats to store data and use SQLite to query large datasets. Next, you will learn to initialize 1D and 2D data structures with the Numpy and Pandas libraries to help organize and summarize metrics such as the mean, median, and standard deviation of your data.
 
-Moving further, you will learn to identify outliers in your data, eliminate dirty data and perform common data transformations. Finally, you will use qualitative and quantitative data types with Matplotlib to display effective charts and visuals. By the end of this course, you'll have the tools to perform data analysis to tell your compelling stories with data.
+Moving further, you will learn to identify outliers in your data, eliminate dirty data and perform common data transformations. Finally, you will use qualitative and quantitative data types with Matplotlib to display effective charts and visuals. By the end of this course, you'll have the tools to perform data analysis to tell your own compelling stories with data.
 
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
@@ -23,18 +23,19 @@ Moving further, you will learn to identify outliers in your data, eliminate dirt
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-<LI>Pythonic Programming 
+<LI>Python Programming (Version 3) 
 <LI>Intermediate Algebra
 <LI>Descriptive Statistics
+
 ### Technical Requirements
 This course has the following software requirements:<br/>
-<LI>Python Anaconda Package
+<LI>Python Anaconda Package (will download in the course)
 <LI>64-bit computer.
-<LI>Minimum 3 GB disk space to download and installPython Anaconda package
+<LI>Minimum 3 GB disk space to download and install Python Anaconda package
 <LI>Windows, macOS or Linux.
 <LI>Python​ ​3.5 or above
 
-Google Chrome System Requirements :
+Browser System Requirements :
 <LI>Chrome
 <LI>Firefox
 <LI>Windows only: Internet Explorer 11, Microsoft Edge
