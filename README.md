@@ -23,22 +23,22 @@ Moving further, you will learn to identify outliers in your data, eliminate dirt
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-Pythonic Programming 
-Intermediate Algebra
-Descriptive Statistics
+<LI>Pythonic Programming 
+<LI>Intermediate Algebra
+<LI>Descriptive Statistics
 ### Technical Requirements
 This course has the following software requirements:<br/>
-Python Anaconda Package
-64-bit computer.
-Minimum 3 GB disk space to download and installPython Anaconda package
-Windows, macOS or Linux.
-Python​ ​3.5 or above
+<LI>Python Anaconda Package
+<LI>64-bit computer.
+<LI>Minimum 3 GB disk space to download and installPython Anaconda package
+<LI>Windows, macOS or Linux.
+<LI>Python​ ​3.5 or above
 
 Google Chrome System Requirements :
-Chrome
-Firefox
-Windows only: Internet Explorer 11, Microsoft Edge
-Mac only: Safari
+<LI>Chrome
+<LI>Firefox
+<LI>Windows only: Internet Explorer 11, Microsoft Edge
+<LI>Mac only: Safari
 
 ## Related Products
 * [Learning Computer Vision with TensorFlow [Video]](https://www.packtpub.com/big-data-and-business-intelligence/learning-computer-vision-tensorflow-video?utm_source=github&utm_medium=repository&utm_campaign=9781788292573)
